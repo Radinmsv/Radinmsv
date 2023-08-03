@@ -7,3 +7,4 @@
 - 🤔 I’m looking for help with Gans
 - 💬 Ask me about Python and Algorithms
 - 📫 Reach me via Email
+<img src="[https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg](https://raw.githubusercontent.com/Radinmsv/Radinmsv/main/github-user-contribution.svg)https://raw.githubusercontent.com/Radinmsv/Radinmsv/main/github-user-contribution.svg">
